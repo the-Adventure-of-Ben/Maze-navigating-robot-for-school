@@ -7,7 +7,7 @@ I hope that explain why some off my coding (all of my coding) is not optimized a
 
 I will be adding my Design and building folio to here when it is compeleted (if it ever is).
 
-_**RULES (Wishes) FOR USING MY CODE:**_
+_**RULES (Wishes) FOR USING MY STUFF:**_
 
 * If your are able to improve it or you are able to help in any way to the production and writing of code (especially the code) 
 please reach out to me.
