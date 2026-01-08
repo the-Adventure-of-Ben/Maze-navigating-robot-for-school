@@ -1,4 +1,4 @@
-# Maze-navigating-robot-for-school
+# Maze-navigating-robot-for-school **ARCIVED**
 This is the start of a project that requirse me to disign build and program a robot that is able to navigate a maze.
 This is my VCE unit 2 assignment, this is an australian schooling system. it means that this is my project for unit 2 out of 4 units
 we do 2 units a year so I am in my second last year of schooling before university.
